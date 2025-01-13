@@ -1,0 +1,84 @@
+{
+  "categorias": [
+    {
+      "id": 1,
+      "nome": "Bebidas",
+      "produtos": [
+        { "nome": "Água Mineral", "corredor": "1" },
+        { "nome": "Refrigerante Cola", "corredor": "1" },
+        { "nome": "Suco de Laranja", "corredor": "1" },
+        { "nome": "Cerveja Pilsen", "corredor": "1" },
+        { "nome": "Vinho Tinto", "corredor": "1" },
+        { "nome": "Whisky", "corredor": "1" },
+        { "nome": "Água com Gás", "corredor": "1" },
+        { "nome": "Energético", "corredor": "1" },
+        { "nome": "Chá Gelado", "corredor": "1" },
+        { "nome": "Isotônico", "corredor": "1" }
+      ]
+    },
+    {
+      "id": 2,
+      "nome": "Frios",
+      "produtos": [
+        { "nome": "Queijo Mussarela", "corredor": "2" },
+        { "nome": "Queijo Prato", "corredor": "2" },
+        { "nome": "Presunto", "corredor": "2" },
+        { "nome": "Peito de Peru", "corredor": "2" },
+        { "nome": "Salame", "corredor": "2" },
+        { "nome": "Mortadela", "corredor": "2" },
+        { "nome": "Queijo Parmesão", "corredor": "2" },
+        { "nome": "Cream Cheese", "corredor": "2" },
+        { "nome": "Requeijão", "corredor": "2" },
+        { "nome": "Ricota", "corredor": "2" }
+      ]
+    },
+    {
+      "id": 3,
+      "nome": "Higiene",
+      "produtos": [
+        { "nome": "Shampoo", "corredor": "3" },
+        { "nome": "Condicionador", "corredor": "3" },
+        { "nome": "Sabonete Líquido", "corredor": "3" },
+        { "nome": "Sabonete em Barra", "corredor": "3" },
+        { "nome": "Creme Dental", "corredor": "3" },
+        { "nome": "Fio Dental", "corredor": "3" },
+        { "nome": "Escova de Dente", "corredor": "3" },
+        { "nome": "Desodorante", "corredor": "3" },
+        { "nome": "Papel Higiênico", "corredor": "3" },
+        { "nome": "Lenços Umedecidos", "corredor": "3" }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Limpeza",
+      "produtos": [
+        { "nome": "Detergente", "corredor": "4" },
+        { "nome": "Desinfetante", "corredor": "4" },
+        { "nome": "Sabão em Pó", "corredor": "4" },
+        { "nome": "Sabão Líquido", "corredor": "4" },
+        { "nome": "Amaciante", "corredor": "4" },
+        { "nome": "Álcool 70%", "corredor": "4" },
+        { "nome": "Esponja de Limpeza", "corredor": "4" },
+        { "nome": "Pano de Chão", "corredor": "4" },
+        { "nome": "Vassoura", "corredor": "4" },
+        { "nome": "Rodo", "corredor": "4" }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "Padaria",
+      "produtos": [
+        { "nome": "Pão Francês", "corredor": "5" },
+        { "nome": "Croissant", "corredor": "5" },
+        { "nome": "Pão de Forma", "corredor": "5" },
+        { "nome": "Bolo de Cenoura", "corredor": "5" },
+        { "nome": "Bolo de Chocolate", "corredor": "5" },
+        { "nome": "Biscoito de Polvilho", "corredor": "5" },
+        { "nome": "Torrada", "corredor": "5" },
+        { "nome": "Rosquinha", "corredor": "5" },
+        { "nome": "Pão Integral", "corredor": "5" },
+        { "nome": "Pão de Queijo", "corredor": "5" }
+      ]
+    }
+  ]
+}
