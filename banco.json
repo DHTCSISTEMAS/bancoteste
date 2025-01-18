@@ -25,7 +25,7 @@
         {
           "nome": "Cerveja Pilsen",
           "imagem": "https://www.eisenbahn.com.br/media/2wmltvqr/pilsen-longneck-c_-sombra.png",
-          "corredor": "corredor_1B".
+          "corredor": "corredor_1B",
            "preco": 9.00
         },
         {
@@ -49,7 +49,7 @@
         {
           "nome": "Energético",
           "imagem": "https://w7.pngwing.com/pngs/639/151/png-transparent-red-bull-sports-energy-drinks-lucozade-red-bull-food-aluminum-can-sports-energy-drinks-thumbnail.png",
-          "corredor": "corredor_1B".
+          "corredor": "corredor_1B",
            "preco": 12.99
         },
         {
@@ -271,52 +271,62 @@
     {
       "nome": "Shampoo",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSG0ojc7tnQ57YXy0dyy3D2XZX3tZUc-R24lA&s",
-      "corredor": "corredor_2A"
+      "corredor": "corredor_2A",
+       "preco": 10.00
     },
     {
       "nome": "Condicionador",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7yn707ZTIs3eytmw0Y4CTa_Cqf0r25imx3g&s",
-      "corredor": "corredor_2A"
+      "corredor": "corredor_2A",
+       "preco": 12.00
     },
     {
       "nome": "Sabonete em Barra",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAObVqy7VTG5IHQg4Snr5E4orIGky2gEaDSw&s",
-      "corredor": "corredor_4B"
+      "corredor": "corredor_4B",
+       "preco": 4.00
     },
     {
       "nome": "Sabonete Líquido",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHvr1SbF3VzkIdzYfzCaje9H4EO1JVQ4vWmw&s",
-      "corredor": "corredor_4A"
+      "corredor": "corredor_4A",
+       "preco": 6.00
     },
     {
       "nome": "Desodorante",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQT0WRq714qQpGQLRaM4DryZqN4dIDNn3OWxw&s",
-      "corredor": "corredor_1B"
+      "corredor": "corredor_1B",
+       "preco": 9.99
     },
     {
       "nome": "Escova de Dentes",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjF8HehPUaTDijSo5yG1hwNe_3PlVzV49zGQ&s",
-      "corredor": "corredor_1B"
+      "corredor": "corredor_1B",
+       "preco": 8.00
     },
     {
       "nome": "Pasta de Dente",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQD2R69XW1ItYiBY1mWzgSpHOFTroA9Roy7JQ&s",
-      "corredor": "corredor_3B"
+      "corredor": "corredor_3B",
+       "preco": 7.00
     },
     {
       "nome": "Fio Dental",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2snpjHqBcZiYEO-uPhjeN5ISDla6_SM78pg&s",
-      "corredor": "corredor_2B"
+      "corredor": "corredor_2B",
+       "preco": 5.00
     },
     {
       "nome": "Enxaguante Bucal",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJmT3_q-wvGznaXbLHg7P29jUKQlbVu7BaiA&s",
-      "corredor": "corredor_2B"
+      "corredor": "corredor_2B",
+       "preco": 4.99
     },
     {
       "nome": "Lâmina de Barbear",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOCoEUSHGvA1Pviky8dclUhqeqgUjV2BoDRA&s",
-      "corredor": "corredor_3A"
+      "corredor": "corredor_3A",
+       "preco": 4.99
     }
   ]
 }
