@@ -4,81 +4,281 @@
       "id": 1,
       "nome": "Bebidas",
       "produtos": [
-        { "nome": "Água Mineral", "corredor": "1" },
-        { "nome": "Refrigerante Cola", "corredor": "1" },
-        { "nome": "Suco de Laranja", "corredor": "1" },
-        { "nome": "Cerveja Pilsen", "corredor": "1" },
-        { "nome": "Vinho Tinto", "corredor": "1" },
-        { "nome": "Whisky", "corredor": "1" },
-        { "nome": "Água com Gás", "corredor": "1" },
-        { "nome": "Energético", "corredor": "1" },
-        { "nome": "Chá Gelado", "corredor": "1" },
-        { "nome": "Isotônico", "corredor": "1" }
+        {
+          "nome": "Água Mineral",
+          "imagem": "https://cdn.pixabay.com/photo/2017/06/10/07/18/water-2384739_960_720.jpg",
+          "corredor": "corredor_1A"
+        },
+        {
+          "nome": "Refrigerante Cola",
+          "imagem": "https://cdn.pixabay.com/photo/2016/11/21/15/52/cola-1845271_960_720.jpg",
+          "corredor": "corredor_1A"
+        },
+        {
+          "nome": "Suco de Laranja",
+          "imagem": "https://cdn.pixabay.com/photo/2017/05/23/22/36/orange-juice-2331510_960_720.jpg",
+          "corredor": "corredor_1A"
+        },
+        {
+          "nome": "Cerveja Pilsen",
+          "imagem": "https://cdn.pixabay.com/photo/2017/08/30/12/45/beer-2695358_960_720.jpg",
+          "corredor": "corredor_1B"
+        },
+        {
+          "nome": "Vinho Tinto",
+          "imagem": "https://cdn.pixabay.com/photo/2016/11/29/04/17/wine-1867431_960_720.jpg",
+          "corredor": "corredor_1B"
+        },
+        {
+          "nome": "Whisky",
+          "imagem": "https://cdn.pixabay.com/photo/2017/06/22/17/10/whiskey-2439251_960_720.jpg",
+          "corredor": "corredor_1B"
+        },
+        {
+          "nome": "Água com Gás",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/water-1959261_960_720.jpg",
+          "corredor": "corredor_1A"
+        },
+        {
+          "nome": "Energético",
+          "imagem": "https://cdn.pixabay.com/photo/2016/11/29/03/53/energy-drink-1867321_960_720.jpg",
+          "corredor": "corredor_1B"
+        },
+        {
+          "nome": "Chá Gelado",
+          "imagem": "https://cdn.pixabay.com/photo/2017/05/23/22/36/iced-tea-2331511_960_720.jpg",
+          "corredor": "corredor_1A"
+        },
+        {
+          "nome": "Isotônico",
+          "imagem": "https://cdn.pixabay.com/photo/2016/11/29/03/53/sports-drink-1867320_960_720.jpg",
+          "corredor": "corredor_1A"
+        }
       ]
     },
     {
       "id": 2,
       "nome": "Frios",
       "produtos": [
-        { "nome": "Queijo Mussarela", "corredor": "2" },
-        { "nome": "Queijo Prato", "corredor": "2" },
-        { "nome": "Presunto", "corredor": "2" },
-        { "nome": "Peito de Peru", "corredor": "2" },
-        { "nome": "Salame", "corredor": "2" },
-        { "nome": "Mortadela", "corredor": "2" },
-        { "nome": "Queijo Parmesão", "corredor": "2" },
-        { "nome": "Cream Cheese", "corredor": "2" },
-        { "nome": "Requeijão", "corredor": "2" },
-        { "nome": "Ricota", "corredor": "2" }
+        {
+          "nome": "Queijo Mussarela",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/cheese-1959262_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Queijo Prato",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/cheese-1959263_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Presunto",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/ham-1959264_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Peito de Peru",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/turkey-breast-1959265_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Salame",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/salami-1959266_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Mortadela",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/bologna-1959267_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Queijo Parmesão",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/parmesan-1959268_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Cream Cheese",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/cream-cheese-1959269_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Requeijão",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/cream-cheese-1959270_960_720.jpg",
+          "corredor": "corredor_2A"
+        },
+        {
+          "nome": "Ricota",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/ricotta-1959271_960_720.jpg",
+          "corredor": "corredor_2A"
+        }
       ]
     },
-    {
+        {
       "id": 3,
-      "nome": "Higiene",
+      "nome": "Pães",
       "produtos": [
-        { "nome": "Shampoo", "corredor": "3" },
-        { "nome": "Condicionador", "corredor": "3" },
-        { "nome": "Sabonete Líquido", "corredor": "3" },
-        { "nome": "Sabonete em Barra", "corredor": "3" },
-        { "nome": "Creme Dental", "corredor": "3" },
-        { "nome": "Fio Dental", "corredor": "3" },
-        { "nome": "Escova de Dente", "corredor": "3" },
-        { "nome": "Desodorante", "corredor": "3" },
-        { "nome": "Papel Higiênico", "corredor": "3" },
-        { "nome": "Lenços Umedecidos", "corredor": "3" }
+        {
+          "nome": "Pão Francês",
+          "imagem": "https://cdn.pixabay.com/photo/2015/04/20/13/17/bread-731232_960_720.jpg",
+          "corredor": "corredor_3A"
+        },
+        {
+          "nome": "Pão de Forma",
+          "imagem": "https://cdn.pixabay.com/photo/2014/12/15/13/40/bread-569074_960_720.jpg",
+          "corredor": "corredor_3A"
+        },
+        {
+          "nome": "Pão Integral",
+          "imagem": "https://cdn.pixabay.com/photo/2016/12/26/16/57/bread-1932460_960_720.jpg",
+          "corredor": "corredor_3A"
+        },
+        {
+          "nome": "Pão de Leite",
+          "imagem": "https://cdn.pixabay.com/photo/2018/03/13/22/45/bread-3220086_960_720.jpg",
+          "corredor": "corredor_3A"
+        },
+        {
+          "nome": "Pão de Milho",
+          "imagem": "https://cdn.pixabay.com/photo/2016/12/17/18/52/corn-bread-1913124_960_720.jpg",
+          "corredor": "corredor_3A"
+        },
+        {
+          "nome": "Pão Sírio",
+          "imagem": "https://cdn.pixabay.com/photo/2015/04/20/13/17/bread-731226_960_720.jpg",
+          "corredor": "corredor_3A"
+        },
+        {
+          "nome": "Croissant",
+          "imagem": "https://cdn.pixabay.com/photo/2016/03/05/19/02/croissant-1238242_960_720.jpg",
+          "corredor": "corredor_3B"
+        },
+        {
+          "nome": "Pão de Queijo",
+          "imagem": "https://cdn.pixabay.com/photo/2018/09/12/22/25/brazilian-snack-3674383_960_720.jpg",
+          "corredor": "corredor_3B"
+        },
+        {
+          "nome": "Baguete",
+          "imagem": "https://cdn.pixabay.com/photo/2018/04/23/18/44/baguette-3345451_960_720.jpg",
+          "corredor": "corredor_3B"
+        },
+        {
+          "nome": "Pão de Alho",
+          "imagem": "https://cdn.pixabay.com/photo/2020/09/17/18/03/garlic-bread-5578876_960_720.jpg",
+          "corredor": "corredor_3B"
+        }
       ]
     },
     {
       "id": 4,
-      "nome": "Limpeza",
+      "nome": "Laticínios",
       "produtos": [
-        { "nome": "Detergente", "corredor": "4" },
-        { "nome": "Desinfetante", "corredor": "4" },
-        { "nome": "Sabão em Pó", "corredor": "4" },
-        { "nome": "Sabão Líquido", "corredor": "4" },
-        { "nome": "Amaciante", "corredor": "4" },
-        { "nome": "Álcool 70%", "corredor": "4" },
-        { "nome": "Esponja de Limpeza", "corredor": "4" },
-        { "nome": "Pano de Chão", "corredor": "4" },
-        { "nome": "Vassoura", "corredor": "4" },
-        { "nome": "Rodo", "corredor": "4" }
+        {
+          "nome": "Leite Integral",
+          "imagem": "https://cdn.pixabay.com/photo/2016/11/18/17/20/milk-1835852_960_720.jpg",
+          "corredor": "corredor_4A"
+        },
+        {
+          "nome": "Leite Desnatado",
+          "imagem": "https://cdn.pixabay.com/photo/2016/11/18/17/20/milk-1835854_960_720.jpg",
+          "corredor": "corredor_4A"
+        },
+        {
+          "nome": "Iogurte Natural",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/12/14/24/yogurt-1971497_960_720.jpg",
+          "corredor": "corredor_4A"
+        },
+        {
+          "nome": "Manteiga",
+          "imagem": "https://cdn.pixabay.com/photo/2018/01/28/12/27/butter-3117468_960_720.jpg",
+          "corredor": "corredor_4A"
+        },
+        {
+          "nome": "Creme de Leite",
+          "imagem": "https://cdn.pixabay.com/photo/2017/02/20/15/53/cream-2086793_960_720.jpg",
+          "corredor": "corredor_4A"
+        },
+        {
+          "nome": "Requeijão",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/22/17/16/cheese-2001542_960_720.jpg",
+          "corredor": "corredor_4B"
+        },
+        {
+          "nome": "Queijo Cottage",
+          "imagem": "https://cdn.pixabay.com/photo/2017/09/02/00/01/cheese-2701949_960_720.jpg",
+          "corredor": "corredor_4B"
+        },
+        {
+          "nome": "Leite Condensado",
+          "imagem": "https://cdn.pixabay.com/photo/2017/06/13/10/12/milk-2396204_960_720.jpg",
+          "corredor": "corredor_4B"
+        },
+        {
+          "nome": "Chantilly",
+          "imagem": "https://cdn.pixabay.com/photo/2017/05/15/12/42/whipped-cream-2310265_960_720.jpg",
+          "corredor": "corredor_4B"
+        },
+        {
+          "nome": "Bebida Láctea",
+          "imagem": "https://cdn.pixabay.com/photo/2017/05/02/11/42/smoothie-2275694_960_720.jpg",
+          "corredor": "corredor_4B"
+        }
       ]
     },
+
+   {
+  "id": 5,
+  "nome": "Higiene Pessoal",
+  "produtos": [
     {
-      "id": 5,
-      "nome": "Padaria",
-      "produtos": [
-        { "nome": "Pão Francês", "corredor": "5" },
-        { "nome": "Croissant", "corredor": "5" },
-        { "nome": "Pão de Forma", "corredor": "5" },
-        { "nome": "Bolo de Cenoura", "corredor": "5" },
-        { "nome": "Bolo de Chocolate", "corredor": "5" },
-        { "nome": "Biscoito de Polvilho", "corredor": "5" },
-        { "nome": "Torrada", "corredor": "5" },
-        { "nome": "Rosquinha", "corredor": "5" },
-        { "nome": "Pão Integral", "corredor": "5" },
-        { "nome": "Pão de Queijo", "corredor": "5" }
-      ]
+      "nome": "Shampoo",
+      "imagem": "https://cdn.pixabay.com/photo/2017/01/15/10/46/shampoo-1984964_960_720.jpg",
+      "corredor": "corredor_5A"
+    },
+    {
+      "nome": "Condicionador",
+      "imagem": "https://cdn.pixabay.com/photo/2016/11/23/15/24/bottle-1850147_960_720.jpg",
+      "corredor": "corredor_5A"
+    },
+    {
+      "nome": "Sabonete em Barra",
+      "imagem": "https://cdn.pixabay.com/photo/2017/03/27/14/56/soap-2179243_960_720.jpg",
+      "corredor": "corredor_5A"
+    },
+    {
+      "nome": "Sabonete Líquido",
+      "imagem": "https://cdn.pixabay.com/photo/2016/04/06/15/29/soap-1311197_960_720.jpg",
+      "corredor": "corredor_5A"
+    },
+    {
+      "nome": "Desodorante",
+      "imagem": "https://cdn.pixabay.com/photo/2017/06/28/21/57/deodorant-2451079_960_720.jpg",
+      "corredor": "corredor_5B"
+    },
+    {
+      "nome": "Escova de Dentes",
+      "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/toothbrush-1951319_960_720.jpg",
+      "corredor": "corredor_5B"
+    },
+    {
+      "nome": "Pasta de Dente",
+      "imagem": "https://cdn.pixabay.com/photo/2016/11/19/20/17/toothpaste-1840631_960_720.jpg",
+      "corredor": "corredor_5B"
+    },
+    {
+      "nome": "Fio Dental",
+      "imagem": "https://cdn.pixabay.com/photo/2016/07/21/12/36/dental-floss-1534010_960_720.jpg",
+      "corredor": "corredor_5B"
+    },
+    {
+      "nome": "Enxaguante Bucal",
+      "imagem": "https://cdn.pixabay.com/photo/2018/01/20/08/33/mouthwash-3093194_960_720.jpg",
+      "corredor": "corredor_5C"
+    },
+    {
+      "nome": "Lâmina de Barbear",
+      "imagem": "https://cdn.pixabay.com/photo/2016/10/11/13/47/razor-1738644_960_720.jpg",
+      "corredor": "corredor_5C"
     }
   ]
 }
+
