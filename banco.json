@@ -26,32 +26,32 @@
         },
         {
           "nome": "Vinho Tinto",
-          "imagem": "https://cdn.pixabay.com/photo/2016/11/29/04/17/wine-1867431_960_720.jpghttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZ4SWMCZwbawMAKzOspN0iNxxAB7zsjTSdmw&s",
+          "imagem": "https://cdn.awsli.com.br/2500x2500/1311/1311251/produto/147057221/vinho-tinto-franc-s-la-tour-de-fontes-casa-delli-vinhos-xpdsrlinh8.png",
           "corredor": "corredor_1B"
         },
         {
           "nome": "Whisky",
-          "imagem": "https://cdn.pixabay.com/photo/2017/06/22/17/10/whiskey-2439251_960_720.jpg",
+          "imagem": "https://png.pngtree.com/png-clipart/20200701/original/pngtree-jack-danny-whiskey-png-image_5427051.jpg",
           "corredor": "corredor_1B"
         },
         {
           "nome": "Água com Gás",
-          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/water-1959261_960_720.jpg",
+          "imagem": "https://e7.pngegg.com/pngimages/29/339/png-clipart-mineral-water-carbonated-water-fizzy-drinks-water-bottles-lemonade-lemonade-mineral-water-carbonated-water.png",
           "corredor": "corredor_1A"
         },
         {
           "nome": "Energético",
-          "imagem": "https://cdn.pixabay.com/photo/2016/11/29/03/53/energy-drink-1867321_960_720.jpg",
+          "imagem": "https://w7.pngwing.com/pngs/639/151/png-transparent-red-bull-sports-energy-drinks-lucozade-red-bull-food-aluminum-can-sports-energy-drinks-thumbnail.png",
           "corredor": "corredor_1B"
         },
         {
           "nome": "Chá Gelado",
-          "imagem": "https://cdn.pixabay.com/photo/2017/05/23/22/36/iced-tea-2331511_960_720.jpg",
+          "imagem": "https://png.pngtree.com/element_origin_min_pic/17/04/27/f726458189debecd7af3a2cac17cc369.jpg",
           "corredor": "corredor_1A"
         },
         {
           "nome": "Isotônico",
-          "imagem": "https://cdn.pixabay.com/photo/2016/11/29/03/53/sports-drink-1867320_960_720.jpg",
+          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSvLUsU1WxdStF7wW_XHAjYNGxlwuI44ntgw&s",
           "corredor": "corredor_1A"
         }
       ]
