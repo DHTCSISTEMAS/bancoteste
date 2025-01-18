@@ -112,7 +112,7 @@
         }
       ]
     },
-        {
+    {
       "id": 3,
       "nome": "Pães",
       "produtos": [
@@ -170,115 +170,59 @@
     },
     {
       "id": 4,
-      "nome": "Laticínios",
+      "nome": "Verduras e Legumes",
       "produtos": [
         {
-          "nome": "Leite Integral",
-          "imagem": "https://cdn.pixabay.com/photo/2016/11/18/17/20/milk-1835852_960_720.jpg",
+          "nome": "Alface",
+          "imagem": "https://cdn.pixabay.com/photo/2016/04/01/12/51/lettuce-1290789_960_720.jpg",
           "corredor": "corredor_4A"
         },
         {
-          "nome": "Leite Desnatado",
-          "imagem": "https://cdn.pixabay.com/photo/2016/11/18/17/20/milk-1835854_960_720.jpg",
+          "nome": "Cenoura",
+          "imagem": "https://cdn.pixabay.com/photo/2016/09/06/18/22/carrot-1645554_960_720.jpg",
           "corredor": "corredor_4A"
         },
         {
-          "nome": "Iogurte Natural",
-          "imagem": "https://cdn.pixabay.com/photo/2017/01/12/14/24/yogurt-1971497_960_720.jpg",
+          "nome": "Couve",
+          "imagem": "https://cdn.pixabay.com/photo/2017/06/10/12/29/kale-2384900_960_720.jpg",
           "corredor": "corredor_4A"
         },
         {
-          "nome": "Manteiga",
-          "imagem": "https://cdn.pixabay.com/photo/2018/01/28/12/27/butter-3117468_960_720.jpg",
+          "nome": "Tomate",
+          "imagem": "https://cdn.pixabay.com/photo/2016/06/09/14/28/tomato-1441986_960_720.jpg",
           "corredor": "corredor_4A"
         },
         {
-          "nome": "Creme de Leite",
-          "imagem": "https://cdn.pixabay.com/photo/2017/02/20/15/53/cream-2086793_960_720.jpg",
+          "nome": "Pepino",
+          "imagem": "https://cdn.pixabay.com/photo/2016/08/29/03/09/cucumber-1633346_960_720.jpg",
           "corredor": "corredor_4A"
         },
         {
-          "nome": "Requeijão",
-          "imagem": "https://cdn.pixabay.com/photo/2017/01/22/17/16/cheese-2001542_960_720.jpg",
-          "corredor": "corredor_4B"
+          "nome": "Abobrinha",
+          "imagem": "https://cdn.pixabay.com/photo/2017/03/24/18/44/zucchini-2160202_960_720.jpg",
+          "corredor": "corredor_4A"
         },
         {
-          "nome": "Queijo Cottage",
-          "imagem": "https://cdn.pixabay.com/photo/2017/09/02/00/01/cheese-2701949_960_720.jpg",
-          "corredor": "corredor_4B"
+          "nome": "Alho",
+          "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/garlic-1959263_960_720.jpg",
+          "corredor": "corredor_4A"
         },
         {
-          "nome": "Leite Condensado",
-          "imagem": "https://cdn.pixabay.com/photo/2017/06/13/10/12/milk-2396204_960_720.jpg",
-          "corredor": "corredor_4B"
+          "nome": "Batata",
+          "imagem": "https://cdn.pixabay.com/photo/2015/09/17/21/41/potato-941643_960_720.jpg",
+          "corredor": "corredor_4A"
         },
         {
-          "nome": "Chantilly",
-          "imagem": "https://cdn.pixabay.com/photo/2017/05/15/12/42/whipped-cream-2310265_960_720.jpg",
-          "corredor": "corredor_4B"
+          "nome": "Berinjela",
+          "imagem": "https://cdn.pixabay.com/photo/2015/09/18/15/19/eggplant-944978_960_720.jpg",
+          "corredor": "corredor_4A"
         },
         {
-          "nome": "Bebida Láctea",
-          "imagem": "https://cdn.pixabay.com/photo/2017/05/02/11/42/smoothie-2275694_960_720.jpg",
-          "corredor": "corredor_4B"
+          "nome": "Brócolis",
+          "imagem": "https://cdn.pixabay.com/photo/2016/07/11/18/10/broccoli-1512283_960_720.jpg",
+          "corredor": "corredor_4A"
         }
       ]
-    },
-
-   {
-  "id": 5,
-  "nome": "Higiene Pessoal",
-  "produtos": [
-    {
-      "nome": "Shampoo",
-      "imagem": "https://cdn.pixabay.com/photo/2017/01/15/10/46/shampoo-1984964_960_720.jpg",
-      "corredor": "corredor_5A"
-    },
-    {
-      "nome": "Condicionador",
-      "imagem": "https://cdn.pixabay.com/photo/2016/11/23/15/24/bottle-1850147_960_720.jpg",
-      "corredor": "corredor_5A"
-    },
-    {
-      "nome": "Sabonete em Barra",
-      "imagem": "https://cdn.pixabay.com/photo/2017/03/27/14/56/soap-2179243_960_720.jpg",
-      "corredor": "corredor_5A"
-    },
-    {
-      "nome": "Sabonete Líquido",
-      "imagem": "https://cdn.pixabay.com/photo/2016/04/06/15/29/soap-1311197_960_720.jpg",
-      "corredor": "corredor_5A"
-    },
-    {
-      "nome": "Desodorante",
-      "imagem": "https://cdn.pixabay.com/photo/2017/06/28/21/57/deodorant-2451079_960_720.jpg",
-      "corredor": "corredor_5B"
-    },
-    {
-      "nome": "Escova de Dentes",
-      "imagem": "https://cdn.pixabay.com/photo/2017/01/06/19/15/toothbrush-1951319_960_720.jpg",
-      "corredor": "corredor_5B"
-    },
-    {
-      "nome": "Pasta de Dente",
-      "imagem": "https://cdn.pixabay.com/photo/2016/11/19/20/17/toothpaste-1840631_960_720.jpg",
-      "corredor": "corredor_5B"
-    },
-    {
-      "nome": "Fio Dental",
-      "imagem": "https://cdn.pixabay.com/photo/2016/07/21/12/36/dental-floss-1534010_960_720.jpg",
-      "corredor": "corredor_5B"
-    },
-    {
-      "nome": "Enxaguante Bucal",
-      "imagem": "https://cdn.pixabay.com/photo/2018/01/20/08/33/mouthwash-3093194_960_720.jpg",
-      "corredor": "corredor_5C"
-    },
-    {
-      "nome": "Lâmina de Barbear",
-      "imagem": "https://cdn.pixabay.com/photo/2016/10/11/13/47/razor-1738644_960_720.jpg",
-      "corredor": "corredor_5C"
     }
   ]
 }
-
