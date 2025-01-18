@@ -7,52 +7,62 @@
         {
           "nome": "Água Mineral",
           "imagem": "https://png.pngtree.com/png-clipart/20241125/original/pngtree-mineral-water-bottle-png-image_17296305.png",
-          "corredor": "corredor_1A"
+          "corredor": "corredor_1A",
+           "preco": 5.00
         },
         {
           "nome": "Refrigerante Cola",
           "imagem": "https://drogariacristal.com/media/catalog/product/cache/dc75f304252411b8c602e1e96d99390d/7/8/7894900027068_01.png",
-          "corredor": "corredor_1A"
+          "corredor": "corredor_1A",
+           "preco": 8.00
         },
         {
           "nome": "Suco de Laranja",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTU4tb0dmhCjx5ZeQaCBy_WTcT1-C6Yak2Cg&s",
-          "corredor": "corredor_1A"
+          "corredor": "corredor_1A",
+           "preco": 6.00
         },
         {
           "nome": "Cerveja Pilsen",
           "imagem": "https://www.eisenbahn.com.br/media/2wmltvqr/pilsen-longneck-c_-sombra.png",
-          "corredor": "corredor_1B"
+          "corredor": "corredor_1B".
+           "preco": 9.00
         },
         {
           "nome": "Vinho Tinto",
           "imagem": "https://cdn.awsli.com.br/2500x2500/1311/1311251/produto/147057221/vinho-tinto-franc-s-la-tour-de-fontes-casa-delli-vinhos-xpdsrlinh8.png",
-          "corredor": "corredor_1B"
+          "corredor": "corredor_1B",
+           "preco": 12.00
         },
         {
           "nome": "Whisky",
           "imagem": "https://png.pngtree.com/png-clipart/20200701/original/pngtree-jack-danny-whiskey-png-image_5427051.jpg",
-          "corredor": "corredor_1B"
+          "corredor": "corredor_1B",
+           "preco": 99.00
         },
         {
           "nome": "Água com Gás",
           "imagem": "https://e7.pngegg.com/pngimages/29/339/png-clipart-mineral-water-carbonated-water-fizzy-drinks-water-bottles-lemonade-lemonade-mineral-water-carbonated-water.png",
-          "corredor": "corredor_1A"
+          "corredor": "corredor_1A",
+           "preco": 10.00
         },
         {
           "nome": "Energético",
           "imagem": "https://w7.pngwing.com/pngs/639/151/png-transparent-red-bull-sports-energy-drinks-lucozade-red-bull-food-aluminum-can-sports-energy-drinks-thumbnail.png",
-          "corredor": "corredor_1B"
+          "corredor": "corredor_1B".
+           "preco": 12.99
         },
         {
           "nome": "Chá Gelado",
           "imagem": "https://png.pngtree.com/element_origin_min_pic/17/04/27/f726458189debecd7af3a2cac17cc369.jpg",
-          "corredor": "corredor_1A"
+          "corredor": "corredor_1A",
+           "preco": 7.99
         },
         {
           "nome": "Isotônico",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSvLUsU1WxdStF7wW_XHAjYNGxlwuI44ntgw&s",
-          "corredor": "corredor_1A"
+          "corredor": "corredor_1A",
+           "preco": 8.00
         }
       ]
     },
@@ -63,52 +73,62 @@
         {
           "nome": "Queijo Mussarela",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEdVmWFQaqoaUhqq-QpvODHRZnEa5Nq7Llbw&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 10.00
         },
         {
           "nome": "Queijo Prato",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBjXrk_JxDU2pQ1K-Fz5kdw6Qo7Rj_FZ7TLA&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 12.00
         },
         {
           "nome": "Presunto",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoG8S_kEGZfxLL0V2I_MHbljYE1LPRCKo4fw&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 14.00
         },
         {
           "nome": "Peito de Peru",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpvOjGf4tLt2wA4kjDe_DiU1rvtYPlP5U1g&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 16.00
         },
         {
           "nome": "Salame",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgZbeeBo0S2LolvWXxGJ6Foe_3TCSf8XBhZA&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 18.00
         },
         {
           "nome": "Mortadela",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHMWmj0Qm9O7ybkzGXV0YmECZOpInI8i9X4g&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 12.00
         },
         {
           "nome": "Queijo Parmesão",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgheN4UOho_TIwSoKxQixGEGy4KDgGkNX3w&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 18.00
         },
         {
           "nome": "Cream Cheese",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRZ3JK-hDUf3f_XOw7ZX1QQfdUjI-74yxQw&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 13.99
         },
         {
           "nome": "Requeijão",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruwwY7nhHgKmY9z8eBVvLtz-MrlpBGaUNVA&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 8.99
         },
         {
           "nome": "Ricota",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOd5uIIatyWbLdqEsNN3V8-dehnkEXHwwXA&s",
-          "corredor": "corredor_2A"
+          "corredor": "corredor_2A",
+           "preco": 10.00
         }
       ]
     },
@@ -119,52 +139,62 @@
         {
           "nome": "Pão Francês",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_WowFiCNHpu6_bey5RWLNEV4lDeltkTek0A&s",
-          "corredor": "corredor_3A"
+          "corredor": "corredor_3A",
+           "preco": 12.00
         },
         {
           "nome": "Pão de Forma",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS5ia3JB_2DGnTiiKsoWb7Wymfvg4Uwjm3xag&s",
-          "corredor": "corredor_3A"
+          "corredor": "corredor_3A",
+           "preco": 9.99
         },
         {
           "nome": "Pão Integral",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMDVru9vB5g2X0gIV9EGLQX6H-dCq6wUIXFg&s",
-          "corredor": "corredor_3A"
+          "corredor": "corredor_3A",
+           "preco": 9.99
         },
         {
           "nome": "Pão de Leite",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWwxeDvQKiETj3upA_aJMIVHJhgSvenRvkcA&s",
-          "corredor": "corredor_3A"
+          "corredor": "corredor_3A",
+           "preco": 10.00
         },
         {
           "nome": "Pão de Milho",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9LmTNrcxq_pWAhsYVTFaat5CNgTjOftzXIw&s",
-          "corredor": "corredor_3A"
+          "corredor": "corredor_3A",
+           "preco": 8.00
         },
         {
           "nome": "Pão Sírio",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBnI-7gSxXwV7ATCiyFYCTMPW-k7xeNbkyZQ&s",
-          "corredor": "corredor_3A"
+          "corredor": "corredor_3A",
+           "preco": 7.99
         },
         {
           "nome": "Croissant",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBtCDrZsOq-hmJ2Yjyp3OJlhiAE_wxLE0iVw&s",
-          "corredor": "corredor_3B"
+          "corredor": "corredor_3B",
+           "preco": 10.00
         },
         {
           "nome": "Pão de Queijo",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnMuk-Hk91OkMioDhWIUjQcTPEDaHgI97ICw&s",
-          "corredor": "corredor_3B"
+          "corredor": "corredor_3B",
+           "preco": 10.00
         },
         {
           "nome": "Baguete",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS90RFTjcUh9RDuIiy9ezVbSpV1_93L93lyqw&s",
-          "corredor": "corredor_3B"
+          "corredor": "corredor_3B",
+           "preco": 16.00
         },
         {
           "nome": "Pão de Alho",
           "imagem": "https://img.cdndsgni.com/preview/12938609-m.jpg",
-          "corredor": "corredor_3B"
+          "corredor": "corredor_3B",
+           "preco": 18.00
         }
       ]
     },
@@ -175,52 +205,62 @@
     {
       "nome": "Leite Integral",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUqPE44yO-vFqhzzWOjiIkwH89UsW3SkgFQg&s",
-      "corredor": "corredor_4A"
+      "corredor": "corredor_4A",
+       "preco": 5.60
     },
     {
       "nome": "Leite Desnatado",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5JeUJTNqh_-lkWgTHlvhmB5LH6OrNll4I2w&s",
-      "corredor": "corredor_4A"
+      "corredor": "corredor_4A",
+       "preco": 5.80
     },
     {
       "nome": "Iogurte Natural",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQl_hgZ0mzGN0T5_gjHIjKJFwEilHtdPO1S5A&s",
-      "corredor": "corredor_4A"
+      "corredor": "corredor_4A",
+       "preco": 6.00
     },
     {
       "nome": "Manteiga",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTETQ4G2PEEbOKg-8ZQGgnzAhK2UeBC7869fg&s",
-      "corredor": "corredor_4A"
+      "corredor": "corredor_4A",
+       "preco": 18.00
     },
     {
       "nome": "Creme de Leite",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsMSs6MkUan34Pr1XOZ6o6Ste0OCeFFsPNvg&s",
-      "corredor": "corredor_4A"
+      "corredor": "corredor_4A",
+       "preco": 5.00
     },
     {
       "nome": "Requeijão",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTa5_Ehv-eCzBZnncRn2DHOetam8UfncqtpMA&s",
-      "corredor": "corredor_4B"
+      "corredor": "corredor_4B",
+       "preco": 8.00
     },
     {
       "nome": "Queijo Cottage",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4Zd9htt_DSyhKtETyo3t7_k-kvmYiMJ1_ZQ&s",
-      "corredor": "corredor_4B"
+      "corredor": "corredor_4B",
+       "preco": 16.56
     },
     {
       "nome": "Leite Condensado",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTN-wLBfG8-Tq1zzhdBSkGyD8i-Dtrm52wcSA&s",
-      "corredor": "corredor_4B"
+      "corredor": "corredor_4B",
+       "preco": 11.99
     },
     {
       "nome": "Chantilly",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSDTnhzPZyg-9lIobg45aD9CLdSdXSbtFsEZw&s",
-      "corredor": "corredor_4B"
+      "corredor": "corredor_4B",
+       "preco": 16.00
     },
     {
       "nome": "Bebida Láctea",
       "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuCSSDvY7Tyr_ipRNq8QNQk4jmsbvcmQNOgg&s",
-      "corredor": "corredor_4B"
+      "corredor": "corredor_4B",
+       "preco": 9.99
     }
   ]
 },
