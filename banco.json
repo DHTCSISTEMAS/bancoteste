@@ -79,19 +79,19 @@
         {
           "nome": "Queijo Prato",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBjXrk_JxDU2pQ1K-Fz5kdw6Qo7Rj_FZ7TLA&s",
-          "corredor": "corredor_2A",
+          "corredor": "corredor_2B",
            "preco": 12.00
         },
         {
           "nome": "Presunto",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoG8S_kEGZfxLL0V2I_MHbljYE1LPRCKo4fw&s",
-          "corredor": "corredor_2A",
+          "corredor": "corredor_2B",
            "preco": 14.00
         },
         {
           "nome": "Peito de Peru",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpvOjGf4tLt2wA4kjDe_DiU1rvtYPlP5U1g&s",
-          "corredor": "corredor_2A",
+          "corredor": "corredor_2B",
            "preco": 16.00
         },
         {
@@ -109,25 +109,25 @@
         {
           "nome": "Queijo Parmesão",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSfgheN4UOho_TIwSoKxQixGEGy4KDgGkNX3w&s",
-          "corredor": "corredor_2A",
+          "corredor": "corredor_3A",
            "preco": 18.00
         },
         {
           "nome": "Cream Cheese",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiRZ3JK-hDUf3f_XOw7ZX1QQfdUjI-74yxQw&s",
-          "corredor": "corredor_2A",
+          "corredor": "corredor_4A",
            "preco": 13.99
         },
         {
           "nome": "Requeijão",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTruwwY7nhHgKmY9z8eBVvLtz-MrlpBGaUNVA&s",
-          "corredor": "corredor_2A",
+          "corredor": "corredor_3B",
            "preco": 8.99
         },
         {
           "nome": "Ricota",
           "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtOd5uIIatyWbLdqEsNN3V8-dehnkEXHwwXA&s",
-          "corredor": "corredor_2A",
+          "corredor": "corredor_4B",
            "preco": 10.00
         }
       ]
