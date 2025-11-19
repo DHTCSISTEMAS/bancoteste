@@ -1,374 +1,123 @@
 {
-  "produtos": [
+  "categorias": [
     {
-      "categoria": "Massas",
-      "corredor": "corredor_A_massas",
-      "itens": [
-        {
-          "nome": "Macarrão Espaguete",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJvWspWmfToIy4T71o-lvwCs35nuHeEblyA&s",
-          "preco": 6.99,
-          "corredor": "corredor_A_massas"
-        },
-        {
-          "nome": "Penne",
-          "imagem": "https://images.ctfassets.net/43ibah8kumsy/1GrjFvLEe4Rjelap67ky2p/ba65d6aa78fa1e3eaa9f15f417fd1c38/Penne_Massa_com_Ovos_500g_feature_image_pt-br.png?w=900",
-          "preco": 7.49,
-          "corredor": "corredor_A_massas"
-        },
-        {
-          "nome": "Parafuso",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS998s7H38MsqtENDia6Ki3B0OiIVGmJj8cjA&s",
-          "preco": 6.49,
-          "corredor": "corredor_A_massas"
-        },
-        {
-          "nome": "Lasanha",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxj389yXAz99aAQOiUqsKcItG7__dyHLxURg&s",
-          "preco": 8.99,
-          "corredor": "corredor_A_massas"
-        },
-        {
-          "nome": "Macarrão Instantâneo",
-          "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVtCMjPdiPHiVn4I2TQMXBgTwju68_XSaIQ&s",
-          "preco": 3.49,
-          "corredor": "corredor_A_massas"
-        }
+      "id": 1,
+      "nome": "Massas",
+      "produtos": [
+        { "nome": "Macarrão Espaguete", "corredor": "corredor_A_massas", "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvJvWspWmfToIy4T71o-lvwCs35nuHeEblyA&s", "preco": 6.99 },
+        { "nome": "Penne", "corredor": "corredor_A_massas", "imagem": "https://images.ctfassets.net/43ibah8kumsy/1GrjFvLEe4Rjelap67ky2p/ba65d6aa78fa1e3eaa9f15f417fd1c38/Penne_Massa_com_Ovos_500g_feature_image_pt-br.png?w=900", "preco": 7.49 },
+        { "nome": "Parafuso", "corredor": "corredor_A_massas", "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS998s7H38MsqtENDia6Ki3B0OiIVGmJj8cjA&s", "preco": 6.49 },
+        { "nome": "Lasanha", "corredor": "corredor_A_massas", "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxj389yXAz99aAQOiUqsKcItG7__dyHLxURg&s", "preco": 8.99 },
+        { "nome": "Macarrão Instantâneo", "corredor": "corredor_A_massas", "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPVtCMjPdiPHiVn4I2TQMXBgTwju68_XSaIQ&s", "preco": 3.49 }
       ]
     },
 
     {
-      "categoria": "Grãos",
-      "corredor": "corredor_B_graos",
-      "itens": [
-        {
-          "nome": "Arroz Branco",
-          "imagem": "https://exemplo.com/arroz.jpg",
-          "preco": 22.90,
-          "corredor": "corredor_B_graos"
-        },
-        {
-          "nome": "Feijão Carioca",
-          "imagem": "https://exemplo.com/feijao.jpg",
-          "preco": 9.99,
-          "corredor": "corredor_B_graos"
-        },
-        {
-          "nome": "Lentilha",
-          "imagem": "https://exemplo.com/lentilha.jpg",
-          "preco": 7.19,
-          "corredor": "corredor_B_graos"
-        },
-        {
-          "nome": "Ervilha",
-          "imagem": "https://exemplo.com/ervilha.jpg",
-          "preco": 6.50,
-          "corredor": "corredor_B_graos"
-        },
-        {
-          "nome": "Grão-de-bico",
-          "imagem": "https://exemplo.com/graodebico.jpg",
-          "preco": 12.99,
-          "corredor": "corredor_B_graos"
-        }
+      "id": 2,
+      "nome": "Grãos",
+      "produtos": [
+        { "nome": "Arroz Branco", "corredor": "corredor_B_graos", "imagem": "https://exemplo.com/arroz.jpg", "preco": 22.90 },
+        { "nome": "Feijão Carioca", "corredor": "corredor_B_graos", "imagem": "https://exemplo.com/feijao.jpg", "preco": 9.99 },
+        { "nome": "Lentilha", "corredor": "corredor_B_graos", "imagem": "https://exemplo.com/lentilha.jpg", "preco": 7.19 },
+        { "nome": "Ervilha", "corredor": "corredor_B_graos", "imagem": "https://exemplo.com/ervilha.jpg", "preco": 6.50 },
+        { "nome": "Grão-de-bico", "corredor": "corredor_B_graos", "imagem": "https://exemplo.com/graodebico.jpg", "preco": 12.99 }
       ]
     },
 
     {
-      "categoria": "Bebidas",
-      "corredor": "corredor_C_bebidas",
-      "itens": [
-        {
-          "nome": "Refrigerante Cola",
-          "imagem": "https://exemplo.com/cola.jpg",
-          "preco": 8.49,
-          "corredor": "corredor_C_bebidas"
-        },
-        {
-          "nome": "Suco de Laranja",
-          "imagem": "https://exemplo.com/suco.jpg",
-          "preco": 6.99,
-          "corredor": "corredor_C_bebidas"
-        },
-        {
-          "nome": "Água Mineral",
-          "imagem": "https://exemplo.com/agua.jpg",
-          "preco": 2.49,
-          "corredor": "corredor_C_bebidas"
-        },
-        {
-          "nome": "Cerveja",
-          "imagem": "https://exemplo.com/cerveja.jpg",
-          "preco": 4.79,
-          "corredor": "corredor_C_bebidas"
-        },
-        {
-          "nome": "Chá Gelado",
-          "imagem": "https://exemplo.com/cha.jpg",
-          "preco": 5.39,
-          "corredor": "corredor_C_bebidas"
-        }
+      "id": 3,
+      "nome": "Bebidas",
+      "produtos": [
+        { "nome": "Refrigerante Cola", "corredor": "corredor_C_bebidas", "imagem": "https://exemplo.com/cola.jpg", "preco": 8.49 },
+        { "nome": "Suco de Laranja", "corredor": "corredor_C_bebidas", "imagem": "httpsemplo.com/suco.jpg", "preco": 6.99 },
+        { "nome": "Água Mineral", "corredor": "corredor_C_bebidas", "imagem": "https://exemplo.com/agua.jpg", "preco": 2.49 },
+        { "nome": "Cerveja", "corredor": "corredor_C_bebidas", "imagem": "https://exemplo.com/cerveja.jpg", "preco": 4.79 },
+        { "nome": "Chá Gelado", "corredor": "corredor_C_bebidas", "imagem": "https://exemplo.com/cha.jpg", "preco": 5.39 }
       ]
     },
 
     {
-      "categoria": "Limpeza",
-      "corredor": "corredor_D_limpeza",
-      "itens": [
-        {
-          "nome": "Detergente",
-          "imagem": "https://exemplo.com/detergente.jpg",
-          "preco": 2.99,
-          "corredor": "corredor_D_limpeza"
-        },
-        {
-          "nome": "Sabão em Pó",
-          "imagem": "https://exemplo.com/sabao.jpg",
-          "preco": 14.90,
-          "corredor": "corredor_D_limpeza"
-        },
-        {
-          "nome": "Amaciante",
-          "imagem": "https://exemplo.com/amaciante.jpg",
-          "preco": 11.49,
-          "corredor": "corredor_D_limpeza"
-        },
-        {
-          "nome": "Desinfetante",
-          "imagem": "https://exemplo.com/desinfetante.jpg",
-          "preco": 5.29,
-          "corredor": "corredor_D_limpeza"
-        },
-        {
-          "nome": "Álcool 70%",
-          "imagem": "https://exemplo.com/alcool.jpg",
-          "preco": 4.90,
-          "corredor": "corredor_D_limpeza"
-        }
+      "id": 4,
+      "nome": "Limpeza",
+      "produtos": [
+        { "nome": "Detergente", "corredor": "corredor_D_limpeza", "imagem": "https://exemplo.com/detergente.jpg", "preco": 2.99 },
+        { "nome": "Sabão em Pó", "corredor": "corredor_D_limpeza", "imagem": "https://exemplo.com/sabao.jpg", "preco": 14.90 },
+        { "nome": "Amaciante", "corredor": "corredor_D_limpeza", "imagem": "https://exemplo.com/amaciante.jpg", "preco": 11.49 },
+        { "nome": "Desinfetante", "corredor": "corredor_D_limpeza", "imagem": "https://exemplo.com/desinfetante.jpg", "preco": 5.29 },
+        { "nome": "Álcool 70%", "corredor": "corredor_D_limpeza", "imagem": "https://exemplo.com/alcool.jpg", "preco": 4.90 }
       ]
     },
 
     {
-      "categoria": "Higiene",
-      "corredor": "corredor_E_higiene",
-      "itens": [
-        {
-          "nome": "Sabonete",
-          "imagem": "https://exemplo.com/sabonete.jpg",
-          "preco": 2.49,
-          "corredor": "corredor_E_higiene"
-        },
-        {
-          "nome": "Shampoo",
-          "imagem": "https://exemplo.com/shampoo.jpg",
-          "preco": 9.80,
-          "corredor": "corredor_E_higiene"
-        },
-        {
-          "nome": "Condicionador",
-          "imagem": "https://exemplo.com/condicionador.jpg",
-          "preco": 10.50,
-          "corredor": "corredor_E_higiene"
-        },
-        {
-          "nome": "Desodorante",
-          "imagem": "https://exemplo.com/desodorante.jpg",
-          "preco": 7.99,
-          "corredor": "corredor_E_higiene"
-        },
-        {
-          "nome": "Pasta de Dente",
-          "imagem": "https://exemplo.com/pasta.jpg",
-          "preco": 4.29,
-          "corredor": "corredor_E_higiene"
-        }
+      "id": 5,
+      "nome": "Higiene",
+      "produtos": [
+        { "nome": "Sabonete", "corredor": "corredor_E_higiene", "imagem": "https://exemplo.com/sabonete.jpg", "preco": 2.49 },
+        { "nome": "Shampoo", "corredor": "corredor_E_higiene", "imagem": "https://exemplo.com/shampoo.jpg", "preco": 9.80 },
+        { "nome": "Condicionador", "corredor": "corredor_E_higiene", "imagem": "https://exemplo.com/condicionador.jpg", "preco": 10.50 },
+        { "nome": "Desodorante", "corredor": "corredor_E_higiene", "imagem": "https://exemplo.com/desodorante.jpg", "preco": 7.99 },
+        { "nome": "Pasta de Dente", "corredor": "corredor_E_higiene", "imagem": "https://exemplo.com/pasta.jpg", "preco": 4.29 }
       ]
     },
 
     {
-      "categoria": "Laticínios",
-      "corredor": "corredor_F_laticinios",
-      "itens": [
-        {
-          "nome": "Leite Integral",
-          "imagem": "https://exemplo.com/leite.jpg",
-          "preco": 4.79,
-          "corredor": "corredor_F_laticinios"
-        },
-        {
-          "nome": "Queijo Mussarela",
-          "imagem": "https://exemplo.com/queijo.jpg",
-          "preco": 29.99,
-          "corredor": "corredor_F_laticinios"
-        },
-        {
-          "nome": "Iogurte Natural",
-          "imagem": "https://exemplo.com/iogurte.jpg",
-          "preco": 3.89,
-          "corredor": "corredor_F_laticinios"
-        },
-        {
-          "nome": "Manteiga",
-          "imagem": "https://exemplo.com/manteiga.jpg",
-          "preco": 12.50,
-          "corredor": "corredor_F_laticinios"
-        },
-        {
-          "nome": "Requeijão",
-          "imagem": "https://exemplo.com/requeijao.jpg",
-          "preco": 8.90,
-          "corredor": "corredor_F_laticinios"
-        }
+      "id": 6,
+      "nome": "Laticínios",
+      "produtos": [
+        { "nome": "Leite Integral", "corredor": "corredor_F_laticinios", "imagem": "https://exemplo.com/leite.jpg", "preco": 4.79 },
+        { "nome": "Queijo Mussarela", "corredor": "corredor_F_laticinios", "imagem": "https://exemplo.com/queijo.jpg", "preco": 29.99 },
+        { "nome": "Iogurte Natural", "corredor": "corredor_F_laticinios", "imagem": "https://exemplo.com/iogurte.jpg", "preco": 3.89 },
+        { "nome": "Manteiga", "corredor": "corredor_F_laticinios", "imagem": "https://exemplo.com/manteiga.jpg", "preco": 12.50 },
+        { "nome": "Requeijão", "corredor": "corredor_F_laticinios", "imagem": "https://exemplo.com/requeijao.jpg", "preco": 8.90 }
       ]
     },
 
     {
-      "categoria": "Doces",
-      "corredor": "corredor_G_doces",
-      "itens": [
-        {
-          "nome": "Chocolate ao Leite",
-          "imagem": "https://exemplo.com/chocolate.jpg",
-          "preco": 6.49,
-          "corredor": "corredor_G_doces"
-        },
-        {
-          "nome": "Bala de Goma",
-          "imagem": "https://exemplo.com/bala.jpg",
-          "preco": 3.19,
-          "corredor": "corredor_G_doces"
-        },
-        {
-          "nome": "Bis",
-          "imagem": "https://exemplo.com/bis.jpg",
-          "preco": 4.39,
-          "corredor": "corredor_G_doces"
-        },
-        {
-          "nome": "Bolacha Recheada",
-          "imagem": "https://exemplo.com/bolacha.jpg",
-          "preco": 2.79,
-          "corredor": "corredor_G_doces"
-        },
-        {
-          "nome": "Goiabada",
-          "imagem": "https://exemplo.com/goiabada.jpg",
-          "preco": 5.99,
-          "corredor": "corredor_G_doces"
-        }
+      "id": 7,
+      "nome": "Doces",
+      "produtos": [
+        { "nome": "Chocolate ao Leite", "corredor": "corredor_G_doces", "imagem": "https://exemplo.com/chocolate.jpg", "preco": 6.49 },
+        { "nome": "Bala de Goma", "corredor": "corredor_G_doces", "imagem": "https://exemplo.com/bala.jpg", "preco": 3.19 },
+        { "nome": "Bis", "corredor": "corredor_G_doces", "imagem": "https://exemplo.com/bis.jpg", "preco": 4.39 },
+        { "nome": "Bolacha Recheada", "corredor": "corredor_G_doces", "imagem": "https://exemplo.com/bolacha.jpg", "preco": 2.79 },
+        { "nome": "Goiabada", "corredor": "corredor_G_doces", "imagem": "https://exemplo.com/goiabada.jpg", "preco": 5.99 }
       ]
     },
 
     {
-      "categoria": "Congelados",
-      "corredor": "corredor_congelados",
-      "itens": [
-        {
-          "nome": "Pizza Congelada",
-          "imagem": "https://exemplo.com/pizza.jpg",
-          "preco": 19.99,
-          "corredor": "corredor_congelados"
-        },
-        {
-          "nome": "Hambúrguer Bovino",
-          "imagem": "https://exemplo.com/hamburguer.jpg",
-          "preco": 14.49,
-          "corredor": "corredor_congelados"
-        },
-        {
-          "nome": "Nuggets",
-          "imagem": "https://exemplo.com/nuggets.jpg",
-          "preco": 13.90,
-          "corredor": "corredor_congelados"
-        },
-        {
-          "nome": "Batata Frita",
-          "imagem": "https://exemplo.com/batata.jpg",
-          "preco": 10.99,
-          "corredor": "corredor_congelados"
-        },
-        {
-          "nome": "Sorvete",
-          "imagem": "https://exemplo.com/sorvete.jpg",
-          "preco": 18.90,
-          "corredor": "corredor_congelados"
-        }
+      "id": 8,
+      "nome": "Congelados",
+      "produtos": [
+        { "nome": "Pizza Congelada", "corredor": "corredor_congelados", "imagem": "https://exemplo.com/pizza.jpg", "preco": 19.99 },
+        { "nome": "Hambúrguer Bovino", "corredor": "corredor_congelados", "imagem": "https://exemplo.com/hamburguer.jpg", "preco": 14.49 },
+        { "nome": "Nuggets", "corredor": "corredor_congelados", "imagem": "https://exemplo.com/nuggets.jpg", "preco": 13.90 },
+        { "nome": "Batata Frita", "corredor": "corredor_congelados", "imagem": "https://exemplo.com/batata.jpg", "preco": 10.99 },
+        { "nome": "Sorvete", "corredor": "corredor_congelados", "imagem": "https://exemplo.com/sorvete.jpg", "preco": 18.90 }
       ]
     },
 
     {
-      "categoria": "Carnes",
-      "corredor": "corredor_carnes",
-      "itens": [
-        {
-          "nome": "Carne Moída",
-          "imagem": "https://exemplo.com/carnemoida.jpg",
-          "preco": 22.99,
-          "corredor": "corredor_carnes"
-        },
-        {
-          "nome": "Frango Congelado",
-          "imagem": "https://exemplo.com/frango.jpg",
-          "preco": 12.49,
-          "corredor": "corredor_carnes"
-        },
-        {
-          "nome": "Linguiça Toscana",
-          "imagem": "https://exemplo.com/linguica.jpg",
-          "preco": 16.99,
-          "corredor": "corredor_carnes"
-        },
-        {
-          "nome": "Picanha",
-          "imagem": "https://exemplo.com/picanha.jpg",
-          "preco": 79.90,
-          "corredor": "corredor_carnes"
-        },
-        {
-          "nome": "Costela Bovina",
-          "imagem": "https://exemplo.com/costela.jpg",
-          "preco": 29.99,
-          "corredor": "corredor_carnes"
-        }
+      "id": 9,
+      "nome": "Carnes",
+      "produtos": [
+        { "nome": "Carne Moída", "corredor": "corredor_carnes", "imagem": "https://exemplo.com/carnemoida.jpg", "preco": 22.99 },
+        { "nome": "Frango Congelado", "corredor": "corredor_carnes", "imagem": "https://exemplo.com/frango.jpg", "preco": 12.49 },
+        { "nome": "Linguiça Toscana", "corredor": "corredor_carnes", "imagem": "https://exemplo.com/linguica.jpg", "preco": 16.99 },
+        { "nome": "Picanha", "corredor": "corredor_carnes", "imagem": "https://exemplo.com/picanha.jpg", "preco": 79.90 },
+        { "nome": "Costela Bovina", "corredor": "corredor_carnes", "imagem": "https://exemplo.com/costela.jpg", "preco": 29.99 }
       ]
     },
 
     {
-      "categoria": "Padaria",
-      "corredor": "corredor_padaria",
-      "itens": [
-        {
-          "nome": "Pão Francês",
-          "imagem": "https://exemplo.com/pao.jpg",
-          "preco": 0.89,
-          "corredor": "corredor_padaria"
-        },
-        {
-          "nome": "Bolo Simples",
-          "imagem": "https://exemplo.com/bolo.jpg",
-          "preco": 11.50,
-          "corredor": "corredor_padaria"
-        },
-        {
-          "nome": "Croissant",
-          "imagem": "https://exemplo.com/croissant.jpg",
-          "preco": 4.20,
-          "corredor": "corredor_padaria"
-        },
-        {
-          "nome": "Pão de Queijo",
-          "imagem": "https://exemplo.com/paoqueijo.jpg",
-          "preco": 12.90,
-          "corredor": "corredor_padaria"
-        },
-        {
-          "nome": "Rosquinha",
-          "imagem": "https://exemplo.com/rosquinha.jpg",
-          "preco": 6.99,
-          "corredor": "corredor_padaria"
-        }
+      "id": 10,
+      "nome": "Padaria",
+      "produtos": [
+        { "nome": "Pão Francês", "corredor": "corredor_padaria", "imagem": "https://exemplo.com/pao.jpg", "preco": 0.89 },
+        { "nome": "Bolo Simples", "corredor": "corredor_padaria", "imagem": "https://exemplo.com/bolo.jpg", "preco": 11.50 },
+        { "nome": "Croissant", "corredor": "corredor_padaria", "imagem": "https://exemplo.com/croissant.jpg", "preco": 4.20 },
+        { "nome": "Pão de Queijo", "corredor": "corredor_padaria", "imagem": "https://exemplo.com/paoqueijo.jpg", "preco": 12.90 },
+        { "nome": "Rosquinha", "corredor": "corredor_padaria", "imagem": "https://exemplo.com/rosquinha.jpg", "preco": 6.99 }
       ]
     }
   ]
 }
-
